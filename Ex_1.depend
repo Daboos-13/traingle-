@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601075954 source:d:\matrial\other course\c++\sheet 1s\ex_1\main.cpp
+	<iostream>
+	"traingle .h"
+
+1601075992 source:d:\matrial\other course\c++\sheet 1s\ex_1\traingle .cpp
+	"traingle .h"
+	<iostream>
+	<string>
+
+1601075895 d:\matrial\other course\c++\sheet 1s\ex_1\traingle .h
+	<iostream>
+	<string>
+
